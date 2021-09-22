@@ -16,10 +16,10 @@
           PROYECTO DE RESIDENCIA PROFESIONAL
         </p>
         <p class="animate__animated animate__fadeIn text-3xl uppercase">
-          nombre del proyecto
+          Sistema web de seguimiento de residencias pofesionales para el departamento de Ciencias Económico-Administrativas 
         </p>
         <br />
-        <p class="animate__animated animate__fadeIn text-3xl">PRESENTA</p>
+        <p class="animate__animated animate__fadeIn text-3xl">PRESENTA:</p>
         <br />
         <p class="animate__animated animate__fadeIn text-3xl ">ANGEL ISAI RAMIREZ BAZAN</p>
         <br /><br /><br />
@@ -443,7 +443,7 @@ lleva de forma digital pero con uso de hojas de Excel y en ocasiones en libretas
     </div>
     <div class=" h-5/6 w-full">
     <div class="flex justify-center h-full ">
-      <p class="text-6xl">Gracias por su atencion</p>
+      <p class="text-6xl">Gracias por su atención</p>
     </div>
     </div>
   </div>
